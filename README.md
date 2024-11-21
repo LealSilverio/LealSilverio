@@ -14,7 +14,7 @@ I'm software engineering student with interest in Web Development. Having a back
 Feel free to connect with me on LinkedIn or reach out via email. Don't hesitate to explore my repositories!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/sara-leal-silverio/) profile
-- Here is my [email](saralealsilverio@gmail.com)
+- Here is my email: saralealsilverio@gmail.com
 
 <!--
 **LealSilverio/LealSilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
