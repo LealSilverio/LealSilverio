@@ -1,4 +1,4 @@
-# Hi there, I'm Sara Leal Silverio 👋
+# Hi there, I'm Sara Burbank 👋
 
 ## About Me 😄
 
@@ -13,7 +13,7 @@ I'm software engineering student with interest in Web Development. Having a back
 
 Feel free to connect with me on LinkedIn or reach out via email. Don't hesitate to explore my repositories!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/sara-leal-silverio/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/sara-s-burbank/) profile
 - Here is my email: saralealsilverio@gmail.com
 
 <!--
