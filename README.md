@@ -1,4 +1,4 @@
-# Hi there, I'm Sara Burbank 👋
+# Hi there, I'm Sara Burbank (formally Sara Leal Silverio)
 
 ## About Me 😄
 
